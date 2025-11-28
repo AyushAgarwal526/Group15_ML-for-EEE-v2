@@ -1,4 +1,5 @@
-# Group15_ML-for-EEE-v2
+# EEG & IQ Based Classification of Psychiatric Disorders
+## Group15_ML-for-EEE-v2
 
 This repository contains machine learning models and datasets for analyzing EEG data, potentially related to cognitive performance or neurological disorders. The project leverages Python and various machine learning libraries to perform tasks such as classification, feature importance analysis, and sequence modeling.
 
